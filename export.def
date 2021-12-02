@@ -1,0 +1,3 @@
+LIBRARY	"msharpenb.auf"
+EXPORTS
+	GetFilterTable

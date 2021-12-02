@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerAttach>
+    </LocalDebuggerAttach>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommand>C:\app\★エンコードソフト\aviutl_TS\aviutl.exe</LocalDebuggerCommand>
+    <LocalDebuggerWorkingDirectory>..\..\..\app\★エンコードソフト\aviutl_TS</LocalDebuggerWorkingDirectory>
+    <LocalDebuggerDebuggerType>NativeOnly</LocalDebuggerDebuggerType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerCommand>C:\app\★エンコードソフト\aviutl_TS\aviutl.exe</LocalDebuggerCommand>
+    <LocalDebuggerWorkingDirectory>..\..\..\app\★エンコードソフト\aviutl_TS</LocalDebuggerWorkingDirectory>
+    <LocalDebuggerAttach>
+    </LocalDebuggerAttach>
+    <LocalDebuggerDebuggerType>NativeOnly</LocalDebuggerDebuggerType>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
